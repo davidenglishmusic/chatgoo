@@ -1,5 +1,5 @@
 # Chatgoo
-An electron based app with the sole purpose of providing chat without having to logging into chrome on mac
+An electron based app with the sole purpose of providing chat without having to log into chrome on mac
 
 ## Installation
 ```
